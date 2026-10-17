@@ -3,4 +3,4 @@ Hi, I'm Sushanth, a final-year B.Tech Computer Science student looking for a fre
 - **3D Space Shooter Game**: A 3D game made in Unity. 
 - **Face Gesture Songs Recommender**: Suggests songs based on the face gesture it detects.
 - **Faculty Workload System**: A web application to manage faculty workload.
-- You can reach me on LinkedIn [https://www.linkedin.com/in/sushanth-reddy-576462303] or by email at [sushanthreddynelamancha@gmail.com].
+You can reach me on LinkedIn [https://www.linkedin.com/in/sushanth-reddy-576462303] or by email at [sushanthreddynelamancha@gmail.com].
